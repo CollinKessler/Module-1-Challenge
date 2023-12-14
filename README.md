@@ -22,11 +22,7 @@ It will also be used by me in the future to chuckle at my clumsy beginning effor
 
 Below is the required screenshot of the page.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![alt text](assets/images/Module-1-Screenshot.png)
 
 ## Credits
 
