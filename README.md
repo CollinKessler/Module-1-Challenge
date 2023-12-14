@@ -12,7 +12,7 @@ This project can be used by other beginning coding students to look over how ano
 
 It will also be used by me in the future to chuckle at my clumsy beginning efforts, while also providing a sense of pride in how far I've come.
 
-Below is the required screenshot of the page.
+Below is the required screenshot of the page, please do not let the amount of tabs open make you anxious.
 
 ![alt text](assets/images/Module-1-Screenshot.png)
 
